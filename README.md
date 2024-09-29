@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alokpotadar
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning more about cloud concepts and machine learning
 - 📫 How to reach me ... gmail - alokpotadar@gmail.com
 
 <!---
